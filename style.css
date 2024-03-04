@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#navegacao {
+  border: 1px solid black;
+  background: black;
+  opacity: 0.5;
+}
+
+#navegacao ul{
+  display-flex;
+  list-style:not;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 23.7px;
+  padding: 10px;
+}
+
+#fundo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}

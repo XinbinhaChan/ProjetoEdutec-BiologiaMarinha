@@ -1,0 +1,19 @@
+*{
+  background-color: lightblue;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+  color: white;
+}
+
+li{
+  list-style: none;
+}
+
+nav{
+  background-color: black;
+  opacity: 0.6;
+}
